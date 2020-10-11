@@ -1,7 +1,8 @@
-### I'm i0Ek3! 👏
+### Hey guys, I'm i0Ek3! 👏
+
+[![Website](https://img.shields.io/website?label=i0Ek3&style=for-the-badge&url=https%3A%2F%2Fi0Ek3.github.io)](https://i0Ek3.github.io)
 
 - 🎓 LNU
-- 🏠 [i0Ek3.github.io](https://i0ek3.github.io) A blog.
 - 🔭 Currently working on my own project.
 - 🌱 Currently learning Golang/ML/DL etc.
 - 👯 I’m looking to collaborate on Open Source project.
