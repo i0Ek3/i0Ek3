@@ -42,7 +42,7 @@
   
 <li><a href='https://github.com/i0Ek3/co'>co</a>: A Go tool to obfuscate/deobfuscate the code.</li>
 
-<li><a href='https://github.com/i0Ek3/masa'>co</a>: A memory allocation simulation algorithm.</li>
+<li><a href='https://github.com/i0Ek3/masa'>masa</a>: A memory allocation simulation algorithm.</li>
 
 <li><a href='https://github.com/i0Ek3/IACM'>IACM</a>: An improved DPoS consensus implementation.</li>
 
