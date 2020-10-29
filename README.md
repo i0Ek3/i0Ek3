@@ -25,7 +25,7 @@
 
 <li><a href='https://github.com/alphalgo/openmap'>openmap</a>: An expanded open map data structre.</li>
 
-<li><a href='https://github.com/alphalgo/regnidorhcs'>regnidorhcs</a>: An expanded open map data structre.</li>
+<li><a href='https://github.com/alphalgo/regnidorhcs'>regnidorhcs</a>: A backward conception of schrodinger.</li>
 
 <li><a href='https://github.com/alphalgo/timewheel'>timewheel</a>: An expanded open timewheel data structre.</li>
 
