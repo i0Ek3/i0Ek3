@@ -42,9 +42,11 @@
 
 <details><summary><strong style='font-size:2rem;'>Projects (part of WIP)</strong></summary>
 
-<h3>Anything</h3><ul>
+<h3>Anything what I do is just for fun.</h3><ul>
   
 <li><a href='https://github.com/i0Ek3/co'>co</a>: A Go tool to obfuscate/deobfuscate the code.</li>
+
+<li><a href='https://github.com/i0Ek3/pyco'>pyco</a>: The Python version of co.</li>
 
 <li><a href='https://github.com/i0Ek3/masa'>masa</a>: A memory allocation simulation algorithm.</li>
 
