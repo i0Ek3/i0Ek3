@@ -1,16 +1,15 @@
-### Hey guys, I'm i0Ek3! 👏
 
 [![Website](https://img.shields.io/website?label=i0Ek3&style=for-the-badge&url=https%3A%2F%2Fi0Ek3.github.io)](https://i0Ek3.github.io)
-
-<p align="center">
-  <img align="center" src="https://github.com/smallnest/smallnest/raw/master/developer.gif"/>
-</p>
 
 <div align="center">
 	<br>
 		<img src="https://raw.githubusercontent.com/i0Ek3/i0Ek3/master/header.svg" width="800" height="400">
 	<br>
 </div>
+
+<p align="center">
+  <img align="center" src="https://github.com/smallnest/smallnest/raw/master/developer.gif"/>
+</p>
 
 <details><summary><strong style='font-size:2rem;'>About me</strong></summary>
 
