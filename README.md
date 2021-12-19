@@ -65,10 +65,36 @@
 
 </details>
 
-<details><summary><strong style='font-size:2rem;'>Organization: alphalgo (WIP)</strong></summary>
+
+<details><summary><strong style='font-size:2rem;'>Personal Projects</strong></summary>
 
 
-<h3>Open Data Structre</h3><ul>
+<h3>Just for fun.</h3><ul>
+
+<li><a href='https://github.com/i0Ek3/ognoc'>ognoc</a>: ognoc is a cryptosystem which offers you kinda ability to set strong password to protect your personal information..</li>
+
+<li><a href='https://github.com/i0Ek3/co'>co</a>: A Go tool to obfuscate/deobfuscate the code.</li>
+
+<li><a href='https://github.com/i0Ek3/pyco'>pyco</a>: The Python version of co.</li>
+
+<li><a href='https://github.com/i0Ek3/IACM'>IACM</a>: An improved DPoS consensus implementation.</li>
+
+<li><a href='https://github.com/i0Ek3/Cybertron'>Cybertron</a>: Transformers.</li>
+
+<li><a href='https://github.com/i0Ek3/go_tests'>go_tests</a>: Learning Go with TDD.</li>
+
+<li><a href='https://github.com/i0Ek3?tab=repositories'>More projectes...</a></li>
+
+</ul>
+</details>
+
+
+<details><summary><strong style='font-size:2rem;'>Organization: alphalgo</strong></summary>
+
+
+<h3>Open Data Structre(Deprecated)</h3>
+
+<ul>
 
 <li><a href='https://github.com/alphalgo/openstack'>openstack</a>: An expanded open stack data structre.</li>
 
@@ -83,36 +109,8 @@
 <li><a href='https://github.com/alphalgo/yportne'>yportne</a>: A backward data structre.</li>
 
 </ul>
-</details>
 
 </details>
 
-<details><summary><strong style='font-size:2rem;'>Projects (part of WIP)</strong></summary>
-
-
-<h3>Anything what I do is just for fun.</h3><ul>
-
-<li><a href='https://github.com/i0Ek3/co'>co</a>: A Go tool to obfuscate/deobfuscate the code.</li>
-
-<li><a href='https://github.com/i0Ek3/pyco'>pyco</a>: The Python version of co.</li>
-
-<li><a href='https://github.com/i0Ek3/masa'>masa</a>: A memory allocation simulation algorithm.</li>
-
-<li><a href='https://github.com/i0Ek3/IACM'>IACM</a>: An improved DPoS consensus implementation.</li>
-
-<li><a href='https://github.com/i0Ek3/Cybertron'>Cybertron</a>: Transformers.</li>
-
-<li><a href='https://github.com/i0Ek3/m4'>m4</a>: A tiny container.</li>
-
-<li><a href='https://github.com/i0Ek3/i0sh'>i0sh</a>: A simple Linux Shell.</li>
-
-<li><a href='https://github.com/i0Ek3/TinyOne'>TinyOne</a>: A simple FTP server.</li>
-
-<li><a href='https://github.com/i0Ek3/go_tests'>go_tests</a>: Learning Go with TDD.</li>
-
-<li><a href='https://github.com/i0Ek3?tab=repositories'>More projectes...</a></li>
-
-</ul>
-</details>
 
 If you like what I do, maybe consider buying me a ☕ coffee/tea please 🥺👉👈  
