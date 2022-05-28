@@ -10,18 +10,13 @@
 
 
 <p align="center">
-  <a href="https://github.com/i0Ek3" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=i0Ek3&title_color=333&text_color=777" alt="i0Ek3's Stats" >
-    <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?username=i0Ek3&hide=issues&title_color=333&text_color=777" alt="i0Ek3's Stats" >
-    -->
-  </a>
-</p>
-
-<p align="center">
-  </a>
+  <img alt="GIF" src="code.gif" width="343" height="220" title="Do what you like, and do it best!">
   <br><br>
   <strong>Check out my work below!</strong>
+  <br><br>
+  <a href="https://github.com/i0Ek3" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=i0Ek3&title_color=333&text_color=777" alt="i0Ek3's Stats" >
+  </a>
   <br><br>
   <a href="https://github.com/i0Ek3">
     <img src="https://badges.pufler.dev/visits/i0Ek3/i0Ek3?style=flat-square&color=black&logo=github">
@@ -39,10 +34,7 @@
     <img src="https://badges.pufler.dev/commits/monthly/i0Ek3?style=flat-square&color=black&logo=github">
   </a>
 </p>
-
- &nbsp;&nbsp;&nbsp;&nbsp;<img align="center" alt="GIF" src="code.gif" width="343" height="220" title="Do what you like, and do it best!">
-
-
+ 
 
 
 <details><summary><strong style='font-size:2rem;'>About me</strong></summary>
