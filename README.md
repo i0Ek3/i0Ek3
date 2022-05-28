@@ -1,8 +1,10 @@
+
 [![Website](https://img.shields.io/website?label=i0Ek3&style=for-the-badge&url=https%3A%2F%2Fi0Ek3.github.io)](https://i0Ek3.github.io)
 
-**Want a America phone number? Register [Twilio](www.twilio.com/referral/EqL6Os) to get one!**
+**Want an America phone number? Register [Twilio](www.twilio.com/referral/EqL6Os) to get one!**
 
 <div align="center">
+	<br>
 	<br>
 		<img src="https://raw.githubusercontent.com/i0Ek3/i0Ek3/master/header.svg" width="800" height="400">
 	<br>
